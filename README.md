@@ -1,29 +1,26 @@
-# DoctorAssistantReactNative
+# Doctor Workflow Mobile App
 
-Expo and React Native mobile application prototype for doctor workflows, patient management, visits, injection zones, reminders, and reference materials.
+Expo React Native prototype for doctor workflows: patients, visits, injection zones, reminders, and reference materials.
 
-## Tech Stack
+## What it demonstrates
 
-- Expo SDK 54
-- React Native 0.81
+- Cross-platform mobile app development with React Native / Expo
+- Medical/workflow-oriented domain modeling
+- Patient and visit management screens
+- Reminder/reference-material style features
+- Mobile UI organization and navigation
+
+## Portfolio value
+
+Shows ability to build structured mobile prototypes for professional workflows, not just simple demo apps.
+
+## Tech stack
+
 - TypeScript
-- Redux Toolkit
-- React Navigation
-- Storybook for React Native
+- React Native
+- Expo
+- Kotlin/Android project support
 
-## Development
+## Status
 
-```bash
-npm install
-npm start
-```
-
-Run on Android:
-
-```bash
-npm run android
-```
-
-## Notes
-
-This public version excludes test credentials, Telegram sessions, QA artifacts with private data, generated native build output, and local machine configuration. Configure any real API endpoints or credentials through local environment files that are not committed.
+Public portfolio prototype. Screenshots and deeper setup notes can be added next.
